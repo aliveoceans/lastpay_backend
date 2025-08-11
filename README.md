@@ -23,13 +23,6 @@
    - Submit to see the summary page with mock data from dealer, insurance, and bank APIs.
    - Check `demo-video.mp4` for a walkthrough (placeholder).
 
-5. **Manual Zip Creation**:
-   - Create a folder `lastpay-mock-project-java`.
-   - Copy the `backend` and `frontend` folders into it.
-   - Add this `README.md` file.
-   - Create a placeholder `demo-video.mp4` or record a short video demo.
-   - Zip the folder using WinRAR or Windows (right-click > Send to > Compressed folder).
-
 ## Notes
 - The backend uses Java Spring Boot with H2 in-memory database.
 - Mock APIs simulate dealer, insurance, and bank responses.
